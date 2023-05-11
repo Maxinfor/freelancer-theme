@@ -1,8 +1,14 @@
 # Site settings
-title: Freelancer
+title: Barbershop
 email: your-email@domain.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "A BAR-BEARIA QUE ENTENDE O SEU ESTILO.
+
+ 
+
+Aqui na Barbershop você recebe atenção total. Um espaço pensado especialmente para entregar sempre o melhor.
+Aqui você encontra todo tratamento necessário para deixar sua barba e o seu cabelo sempre muito bem cuidados.
+. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
